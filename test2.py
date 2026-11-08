@@ -1,2 +1,2 @@
-print("Hello, esta es otra prueva para el main")
+print("Cambio de perspectiva en main")
 
